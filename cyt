@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>meu primeiro exercicio</title>
+</head>
+<body>
+  
+</body>
+<h1> Salve, mundo</h1>
+  <p> esse é o meu primeiro documento</p>
+ <nav>
+  <ul class="menu">
+		<li><a href="#">Home</a></li>
+		<li><a href="#">Sobre</a></li>
+	  		<li><a href="#">O que fazemos?</a>
+	         	<ul>
+              <li><a href="#">Web Design</a></li>
+	            <li><a href="#">SEO</a></li>
+              <li><a href="#">Design</a></li>
+	       		</ul>
+			</li>
+		<li><a href="#">Links</a></li>
+		<li><a href="#">Contato</a></li>
+</ul>
+</nav>
+</html>
